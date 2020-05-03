@@ -1,2 +1,3 @@
-# ml_final_project
-NBA Stats Project
+# Machine Learning Final Project
+
+All contents are in the Jupyter Notebook.
